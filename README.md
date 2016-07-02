@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Maven - Spring 3 MVC Hello World
 ===============================
 Template for Spring 3 MVC + JSP view + XML configuration, using Maven build tool.
@@ -23,3 +24,6 @@ Access ```http://localhost:8080/spring3```
 
 ###4. Project Demo
 Please refer to this article [Maven - Spring 3 MVC Hello World ](http://www.mkyong.com/spring3/spring-3-mvc-hello-world-example/)
+=======
+# helloworld
+>>>>>>> 559b0469b3c1edb1dfd04ab47a0b277b5bd9acbf
