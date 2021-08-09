@@ -1,3 +1,5 @@
 #changing this to test interactive statging
 
 This is a demo file
+
+#this line is to demo ours merge strategy. Where only commit history is merged and not teh changes
