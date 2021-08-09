@@ -1,0 +1,219 @@
+[33mcommit db1b9427c8fb0acba573452664d5b97d2ece5f63[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: a626125 5720ebf
+Author: kbpradeep <kbpradeep89@gmail.com>
+Date:   Mon Aug 9 15:28:08 2021 +0000
+
+    Merge branch 'dev'
+
+[33mcommit 5720ebfd5c551dbc9eefb0dbe3b7cad553661ba4[m[33m ([m[1;32mdev[m[33m)[m
+Author: kbpradeep <kbpradeep89@gmail.com>
+Date:   Mon Aug 9 15:26:09 2021 +0000
+
+    commit to demo ours merge
+
+[33mcommit a6261250236a21b7f5dbf95f4028248ba8a3ee52[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: kbpradeep <kbpradeep89@gmail.com>
+Date:   Mon Aug 9 12:47:37 2021 +0000
+
+    completing interactive staging
+
+[33mcommit 3490c3886563031e10b2352112820be32a820520[m
+Author: kbpradeep <kbpradeep89@gmail.com>
+Date:   Mon Aug 9 12:46:56 2021 +0000
+
+    commiting changes fron 1 file using interactive staging
+
+[33mcommit 03a00822c8d71424d9f12f0186cd8b023c92b504[m
+Author: kbpradeep <kbpradeep89@gmail.com>
+Date:   Mon Aug 9 12:44:40 2021 +0000
+
+    demo of partial staging
+
+[33mcommit 06823905529affcd93417c6922831f377ad9258a[m[33m ([m[1;33mtag: v2[m[33m)[m
+Author: kbpradeep <kbpradeep89@gmail.com>
+Date:   Sun Aug 8 16:03:01 2021 +0000
+
+    to test tags
+
+[33mcommit 49c0c9f408a66d5333d177903f11195810443337[m
+Merge: eb06542 d878d10
+Author: Pradeep Basavaraj <kbpradeep89@gmail.com>
+Date:   Sun Aug 8 21:17:14 2021 +0530
+
+    Merge pull request #1 from kbpradeep/dev
+    
+    Following Tayyab's upGrad tutorial
+
+[33mcommit d878d101b71a69b57d979e738bda912e343d1620[m[33m ([m[1;31morigin/dev[m[33m)[m
+Author: kbpradeep <kbpradeep89@gmail.com>
+Date:   Sun Aug 8 15:28:40 2021 +0000
+
+    Following Tayyab's upGrad tutorial
+
+[33mcommit eb06542ed8fa2e257804ecb695a2a497e3290afd[m
+Merge: c143b87 1da03dd
+Author: Tayyab Khan <mr.tayyabkhan@yahoo.com>
+Date:   Thu Jan 21 00:49:33 2021 +0530
+
+    Merge pull request #1 from DevOpsExperts/dev
+    
+    This a new feature
+
+[33mcommit 1da03dd69a091023d3b3548fdea19f8f116a7a36[m
+Author: Tayyab <tkhan@atlassian.com>
+Date:   Wed Jan 20 00:55:41 2021 +0530
+
+    Added a new message
+
+[33mcommit c143b877ec72b8d87479b5243a8b85b2fcf2d898[m
+Merge: 977e949 88d083c
+Author: Tayyab Khan <Tayyab.Khan@mphasis.com>
+Date:   Mon Aug 21 14:15:51 2017 +0530
+
+    Merge branch 'master' of https://github.com/itstayyab/helloworld
+
+[33mcommit 977e949ae5437ff599653ecc2d4105abddccc484[m
+Author: Tayyab Khan <Tayyab.Khan@mphasis.com>
+Date:   Sun Aug 20 12:42:57 2017 +0530
+
+    Revert " restore file1 and file2, 3 are empty"
+
+[33mcommit 67890f92905bf771982bd073a817b1b1dc7e0ef0[m
+Author: Tayyab Khan <Tayyab.Khan@mphasis.com>
+Date:   Sun Aug 20 12:34:03 2017 +0530
+
+    Revert "Revert "trancated all the files""
+    
+    This reverts commit 1ee31a4e411bf395fe0b8083ac7a2bf0aacd2b4e.
+
+[33mcommit 1ee31a4e411bf395fe0b8083ac7a2bf0aacd2b4e[m
+Author: Tayyab Khan <Tayyab.Khan@mphasis.com>
+Date:   Sun Aug 20 12:28:38 2017 +0530
+
+    Revert "trancated all the files"
+    
+    This reverts commit 78297155b0004958b0eae9da3ad65a8963083aa0.
+
+[33mcommit 78297155b0004958b0eae9da3ad65a8963083aa0[m
+Author: Tayyab Khan <Tayyab.Khan@mphasis.com>
+Date:   Sun Aug 20 12:24:37 2017 +0530
+
+    trancated all the files
+
+[33mcommit 517cfb81a57866ff4731b74f69a17ca354d808c7[m
+Author: Tayyab Khan <Tayyab.Khan@mphasis.com>
+Date:   Sun Aug 20 11:52:30 2017 +0530
+
+    added in file 3
+
+[33mcommit a90124f31a99c9a6312c1dccaed01f88fc70231c[m
+Author: Tayyab Khan <Tayyab.Khan@mphasis.com>
+Date:   Sun Aug 20 11:52:05 2017 +0530
+
+    added text in file 2
+
+[33mcommit 2cc35c27c0138e9be2afc65f7214ff6244efed4a[m
+Author: Tayyab Khan <Tayyab.Khan@mphasis.com>
+Date:   Sun Aug 20 11:51:53 2017 +0530
+
+    added text in file 1
+
+[33mcommit 62d7791eecce8a1aa3bc06a09b0e73bcf056288f[m
+Author: Tayyab Khan <Tayyab.Khan@mphasis.com>
+Date:   Sat Aug 19 11:38:37 2017 +0530
+
+    added file3.txt
+
+[33mcommit ea1c09f443e3326441de523e4f79070f23b9c4cd[m
+Author: Tayyab Khan <Tayyab.Khan@mphasis.com>
+Date:   Sat Aug 19 11:38:19 2017 +0530
+
+    added file2.txt
+
+[33mcommit 7f81020282723655e6f99b893517910ea868053f[m
+Author: Tayyab Khan <Tayyab.Khan@mphasis.com>
+Date:   Sat Aug 19 11:37:24 2017 +0530
+
+    added file1.txt
+
+[33mcommit 88d083c0050b37ad5c60e63dce7bb67c584049c8[m
+Author: App Developer <mr.tayyabkhan@yahoo.com>
+Date:   Sun Jul 3 00:58:28 2016 +0530
+
+    updated application name
+
+[33mcommit 5741db45a4e358c65b7453ba2bf61911d310b5d3[m
+Merge: 144e99f 0706679
+Author: App Developer <mr.tayyabkhan@yahoo.com>
+Date:   Sat Jul 2 23:53:24 2016 +0530
+
+    fixed Readme.md
+
+[33mcommit 144e99f9d87536bd9154268ec82680ad83c2b0e3[m
+Merge: 75a18f1 559b046
+Author: App Developer <mr.tayyabkhan@yahoo.com>
+Date:   Sat Jul 2 23:47:46 2016 +0530
+
+    Initial Commit
+
+[33mcommit 0706679192fd9c1194e31b75af99caeb36481a6b[m
+Merge: 75a18f1 559b046
+Author: App Developer <mr.tayyabkhan@yahoo.com>
+Date:   Sat Jul 2 23:47:46 2016 +0530
+
+    Initial Commit
+
+[33mcommit 559b0469b3c1edb1dfd04ab47a0b277b5bd9acbf[m
+Author: Tayyab Khan <mr.tayyabkhan@yahoo.com>
+Date:   Sat Jul 2 23:46:17 2016 +0530
+
+    Initial commit
+
+[33mcommit 75a18f1159c2e0c77d516428fd057031cdb394b1[m
+Author: Tayyab Khan <mr.tayyabkhan@yahoo.com>
+Date:   Thu May 12 16:02:13 2016 +0530
+
+    Changed Name
+
+[33mcommit 3d502a73f25f37ca0aa5218938f0996e459064a1[m
+Author: Tayyab Khan <mr.tayyabkhan@yahoo.com>
+Date:   Sat Apr 23 13:18:33 2016 +0530
+
+    First Change
+
+[33mcommit bda3ebc5d3564964d72d4748db33fc3088d6de54[m
+Author: Yong Mook Kim <mkyong2002@gmail.com>
+Date:   Mon Jun 15 12:29:17 2015 +0800
+
+    Create LICENSE
+
+[33mcommit deb85f0c17db931dfdff12fcbdce4cf76261c90e[m
+Author: Yong Mook Kim <mkyong2002@gmail.com>
+Date:   Mon Jun 15 12:25:57 2015 +0800
+
+    Create README.md
+
+[33mcommit a5d6d253321dadb19833c9bb7d9e2487936d7f86[m
+Merge: 033f1d8 796da01
+Author: mkyong <mkyong2002@gmail.com>
+Date:   Mon Jun 15 12:20:41 2015 +0800
+
+    Merge branch 'master' of https://github.com/mkyong/spring3-mvc-maven-xml-hello-world
+
+[33mcommit 033f1d8dc5b0b6b41d22a8556fdcd95fa4ea77f5[m
+Author: mkyong <mkyong2002@gmail.com>
+Date:   Mon Jun 15 12:16:02 2015 +0800
+
+    first commit
+
+[33mcommit 796da013e513536930e9a6a6012c17b2ace4f886[m
+Author: Yong Mook Kim <mkyong2002@gmail.com>
+Date:   Mon Jun 15 12:13:45 2015 +0800
+
+    Delete README.md
+
+[33mcommit 50ca09cae28aad6f393939493598d05358533eef[m
+Author: Yong Mook Kim <mkyong2002@gmail.com>
+Date:   Mon Jun 15 12:12:26 2015 +0800
+
+    Initial commit
