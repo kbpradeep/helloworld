@@ -1,1 +1,2 @@
 demo file update from master - added thi to inroduce conflict
+#git stashing example
